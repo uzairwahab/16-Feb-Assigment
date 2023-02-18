@@ -1,0 +1,37 @@
+Q1. What is a database? Differentiate between SQL and NoSQL databases.
+ANS. A database is information that is set up for easy access, management and updating. Computer databases typically store aggregations of data records or files
+that contain information, such as sales transactions, customer data, financials and product information.
+
+Databases are used for storing, maintaining and accessing any sort of data. They collect information on people, places or things. That information is gathered in 
+one place so that it can be observed and analyzed. Databases can be thought of as an organized collection of information.
+
+
+Q2. What is DDL? Explain why CREATE, DROP, ALTER, and TRUNCATE are used with an example.
+
+
+
+
+
+Q3. What is DML? Explain INSERT, UPDATE, and DELETE with an example.
+
+
+
+
+Q4. What is DQL? Explain SELECT with an example.
+
+
+
+
+Q5. Explain Primary Key and Foreign Key.
+
+
+
+
+Q6. Write a python code to connect MySQL to python. Explain the cursor() and execute() method.
+
+
+
+
+
+Q7. Give the order of execution of SQL clauses in an SQL query.
+
